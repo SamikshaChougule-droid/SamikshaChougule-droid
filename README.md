@@ -2,49 +2,86 @@
 
 🎓 BSc Computer Science Student  
 📊 Aspiring Data Analyst & Machine Learning Engineer  
-💡 Passionate about turning data into insights  
+💡 Passionate about transforming data into meaningful insights  
 
 ---
 
-## 🚀 Skills
-- Python (Pandas, NumPy, Matplotlib)
+## 🚀 About Me
+- 📊 Skilled in Data Analysis, Visualization & Machine Learning  
+- 📈 Love working with real-world datasets  
+- 🧠 Strong problem-solving mindset  
+- 🎯 Goal: To become a Data Analyst at top tech companies  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
+
+### 📊 Data Tools
 - Excel (Advanced)
 - Power BI
-- Machine Learning (Scikit-learn)
+
+### 🤖 Machine Learning
+- Regression & Classification
+- Model Evaluation
 
 ---
 
 ## 📂 Projects
 
-### 📌 1. Salary Prediction
+### 📌 Salary Prediction
 🔗 https://github.com/SamikshaChougule-droid/salary-predication  
-- Built ML model to predict salaries  
-- Used regression techniques  
+✔ Built ML model to predict salaries  
+✔ Used regression techniques  
+✔ Performed data cleaning & visualization  
 
 ---
 
-### 📌 2. Distance to Solar Noon Prediction  
+### 📌 Distance to Solar Noon Prediction  
 🔗 https://github.com/SamikshaChougule-droid/Distance-to-Solar-Noon-prediction-model  
-- Time-based prediction model  
-- Data preprocessing & visualization  
+✔ Time-based prediction model  
+✔ Feature engineering  
+✔ Data visualization  
 
 ---
 
-### 📌 3. Wine Quality Prediction  
+### 📌 Wine Quality Prediction  
 🔗 https://github.com/SamikshaChougule-droid/wine-prediction  
-- Classification model  
-- Feature analysis  
+✔ Classification model  
+✔ Feature importance analysis  
+✔ Accuracy optimization  
 
 ---
 
-## 📊 Tools I Use
-- Jupyter Notebook
-- Power BI
-- Excel
-- Git & GitHub
+## 📊 Dashboard Projects
+
+### 🏥 Hospital Dashboard (Power BI)
+✔ Patient analysis  
+✔ Revenue insights  
+✔ Department performance  
+
+---
+
+### 📈 Excel Dashboard
+✔ Interactive reports  
+✔ Data cleaning & visualization  
+
+---
+
+## 🧰 Tools & Technologies
+- Jupyter Notebook  
+- Git & GitHub  
+- Power BI  
+- Excel  
 
 ---
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
