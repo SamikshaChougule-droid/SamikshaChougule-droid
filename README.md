@@ -68,9 +68,26 @@
 
 ---
 
-### 📈 Excel Dashboard
-✔ Interactive reports  
-✔ Data cleaning & visualization  
+# 📊 Excel Dashboard Project
+
+## 📌 Overview
+This project analyzes data using Microsoft Excel and creates an interactive dashboard for better insights.
+
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Graphs
+
+## 📈 Features
+✔ Data cleaning  
+✔ Interactive dashboard  
+✔ Visual reports  
+
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
+
+## 📂 Files Included
+- excel-dashboard.xlsx 
 
 ---
 
