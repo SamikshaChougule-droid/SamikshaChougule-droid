@@ -66,6 +66,9 @@
 
 👉 [View Project](https://github.com/SamikshaChougule-droid/hospital-dashboard)
 
+### 📸 Preview
+![Hospital Dashboard](https://raw.githubusercontent.com/SamikshaChougule-droid/hospital-dashboard/main/dashboard.png)
+
 ---
 
 ### 📊 Excel Dashboard Project
