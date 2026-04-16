@@ -59,9 +59,12 @@
 ## 📊 Dashboard Projects
 
 ### 🏥 Hospital Dashboard (Power BI)
+
 ✔ Patient analysis  
 ✔ Revenue insights  
 ✔ Department performance  
+
+👉 [View Project](https://github.com/SamikshaChougule-droid/hospital-dashboard)
 
 ---
 
