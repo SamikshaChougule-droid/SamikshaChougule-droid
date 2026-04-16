@@ -68,27 +68,17 @@
 
 ---
 
-# 📊 Excel Dashboard Project
+### 📊 Excel Dashboard Project
 
-## 📌 Overview
-This project analyzes data using Microsoft Excel and creates an interactive dashboard for better insights.
+✔ Interactive reports  
+✔ Data cleaning & visualization  
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts & Graphs
+👉 [View Project](https://github.com/SamikshaChougule-droid/excel-dashboard)
 
-## 📈 Features
-✔ Data cleaning  
-✔ Interactive dashboard  
-✔ Visual reports  
+---
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
-## 📂 Files Included
-- excel-dashboard.xlsx 
-
+### 📸 Dashboard Preview
+![Dashboard](https://github.com/SamikshaChougule-droid/excel-dashboard/blob/main/dashboard.png)
 ---
 
 ## 🧰 Tools & Technologies
