@@ -1,100 +1,240 @@
-# 👋 Hi, I'm Samiksha Chougule
+```markdown
+<h1 align="center">Hi 👋, I'm Samiksha Chougule</h1>
 
-🎓 BSc Computer Science Student  
-📊 Aspiring Data Analyst & Machine Learning Engineer  
-💡 Passionate about transforming data into meaningful insights  
+<h3 align="center">
+B.Sc. Computer Science Student | Aspiring Full Stack Developer | Data Analyst | Machine Learning Enthusiast
+</h3>
 
----
-
-## 🚀 About Me
-- 📊 Skilled in Data Analysis, Visualization & Machine Learning  
-- 📈 Love working with real-world datasets  
-- 🧠 Strong problem-solving mindset  
-- 🎯 Goal: To become a Data Analyst at top tech companies  
+<p align="center">
+Passionate about building impactful software, analyzing data, and solving real-world problems through technology.
+</p>
 
 ---
 
-## 🛠️ Skills
+# 💫 About Me
 
-### 💻 Programming
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+🎓 B.Sc. Computer Science Student
+
+💻 Aspiring **Full Stack Developer**
+
+📊 Passionate about **Data Analytics & Machine Learning**
+
+🌱 Currently learning
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+
+📈 Interested in
+
+- Full Stack Development
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+
+🎯 Career Goal
+
+Become a Full Stack Developer while leveraging Data Analytics and AI to build intelligent applications.
+
+---
+
+# 💼 Internship Experience
+
+### 💻 C++ Development Intern
+
+- Developed applications using C++
+- Improved problem-solving and OOP concepts
+- Worked on real-world programming tasks
+
+### 📊 Data Analytics Intern
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Business Insights
+- Excel & Power BI
+
+---
+
+# 🚀 Technical Skills
+
+## Programming Languages
+
+- Python
+- C++
 - SQL
+- JavaScript (Learning)
 
-### 📊 Data Tools
-- Excel (Advanced)
+## Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js (Learning)
+- Node.js (Learning)
+- Express.js (Learning)
+- MongoDB (Learning)
+
+## Data Analytics
+
+- Microsoft Excel
 - Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-### 🤖 Machine Learning
-- Regression & Classification
+## Machine Learning
+
+- Regression
+- Classification
 - Model Evaluation
+- Feature Engineering
+- Data Preprocessing
+
+## Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-## 📂 Projects
+# 📂 Featured Projects
 
-### 📌 Salary Prediction
-🔗 https://github.com/SamikshaChougule-droid/salary-predication  
-✔ Built ML model to predict salaries  
-✔ Used regression techniques  
-✔ Performed data cleaning & visualization  
+## 💰 Salary Prediction
 
----
+Machine Learning model that predicts employee salaries using regression algorithms.
 
-### 📌 Distance to Solar Noon Prediction  
-🔗 https://github.com/SamikshaChougule-droid/Distance-to-Solar-Noon-prediction-model  
-✔ Time-based prediction model  
-✔ Feature engineering  
-✔ Data visualization  
+### Tech Stack
 
----
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 
-### 📌 Wine Quality Prediction  
-🔗 https://github.com/SamikshaChougule-droid/wine-prediction  
-✔ Classification model  
-✔ Feature importance analysis  
-✔ Accuracy optimization  
+🔗 Repository
+
+https://github.com/SamikshaChougule-droid/salary-predication
 
 ---
 
-## 📊 Dashboard Projects
+## ☀️ Distance to Solar Noon Prediction
 
-### 🏥 Hospital Dashboard (Power BI)
+Time-series based Machine Learning prediction project.
 
-✔ Patient analysis  
-✔ Revenue insights  
-✔ Department performance  
+### Features
 
-👉 [View Project](https://github.com/SamikshaChougule-droid/hospital-dashboard)
+- Feature Engineering
+- Data Cleaning
+- Visualization
+- Prediction Model
 
-### 📸 Preview
-![Hospital Dashboard](https://raw.githubusercontent.com/SamikshaChougule-droid/hospital-dashboard/main/dashboard.png)
+🔗 Repository
 
----
-
-### 📊 Excel Dashboard Project
-
-✔ Interactive reports  
-✔ Data cleaning & visualization  
-
-👉 [View Project](https://github.com/SamikshaChougule-droid/excel-dashboard)
+https://github.com/SamikshaChougule-droid/Distance-to-Solar-Noon-prediction-model
 
 ---
 
-### 📸 Dashboard Preview
-![Dashboard](https://github.com/SamikshaChougule-droid/excel-dashboard/blob/main/dashboard.png)
+## 🍷 Wine Quality Prediction
+
+Classification model to predict wine quality using Machine Learning.
+
+### Features
+
+- Data Analysis
+- Classification
+- Accuracy Optimization
+- Feature Importance
+
+🔗 Repository
+
+https://github.com/SamikshaChougule-droid/wine-prediction
+
 ---
 
-## 🧰 Tools & Technologies
-- Jupyter Notebook  
-- Git & GitHub  
-- Power BI  
-- Excel  
+# 📊 Dashboard Projects
+
+## 🏥 Hospital Dashboard
+
+Power BI dashboard providing healthcare insights including:
+
+- Patient Analysis
+- Revenue Analysis
+- Department Performance
+- KPI Dashboard
+
+🔗 Repository
+
+https://github.com/SamikshaChougule-droid/hospital-dashboard
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+## 📈 Excel Dashboard
+
+Interactive Excel dashboard for business reporting.
+
+Features:
+
+- Data Cleaning
+- Charts
+- Pivot Tables
+- Interactive Dashboard
+
+🔗 Repository
+
+https://github.com/SamikshaChougule-droid/excel-dashboard
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+# 🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Full Stack Development
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Full Stack Developer
+
+✅ Build Production-Level Web Applications
+
+✅ Master React & Node.js
+
+✅ Improve Data Analytics Skills
+
+✅ Learn Advanced Machine Learning
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+www.linkedin.com/in/samiksha-chougule-9b37b3355
+
+🐙 GitHub
+
+https://github.com/SamikshaChougule-droid
+
+---
+
+# ⭐ Fun Fact
+
+> "I enjoy turning ideas into software and transforming data into meaningful insights."
+
+---
+
+### Thanks for visiting my profile! ⭐
+If you like my work, consider giving a ⭐ to my repositories.
+```
